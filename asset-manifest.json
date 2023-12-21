@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/metalfriends/static/css/main.88e07710.css",
+    "main.js": "/metalfriends/static/js/main.0b2b44c0.js",
+    "static/media/SEGA.woff": "/metalfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/metalfriends/index.html",
+    "main.88e07710.css.map": "/metalfriends/static/css/main.88e07710.css.map",
+    "main.0b2b44c0.js.map": "/metalfriends/static/js/main.0b2b44c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e07710.css",
+    "static/js/main.0b2b44c0.js"
+  ]
+}
